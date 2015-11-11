@@ -1,0 +1,139 @@
+#!/C/Perl/site/bin/perl -w
+
+## C:\Perl\bin;C:\Perl64\site\bin
+
+use warnings;
+
+
+print (23 + "7");
+print (14 * "A23");
+print   3 ** 4;
+print   "Hello" . "4";
+print     24 / 6;
+
+
+
+/*Write a program to input points possible and your points.
+Compute and output your letter grade (assume no pluses or minuses).*/
+
+/*Mary Pape*/
+
+#include <iostream>
+using namespace std;
+
+//Function prototypes (declaration)
+void withElse(double);
+void multiBranch(double percent);
+
+int main()
+{
+	//Declare variable
+	int possible, myPoints;
+	double percentage; char grade;
+
+	//Input points possible and points earned
+	cout << "Enter points possible: ";
+	cin >> possible;
+	cout << "Enter points you have so far: ";
+	cin >> myPoints;
+
+	//Compute percentage
+	if (possible <= 0)
+	{
+		cout << "\nEntry is invalid\n" << endl;
+		system("pause");
+		return 0;
+	}
+	else
+	percentage = static_cast<double>(myPoints) / possible * 100;
+	cout << percentage;
+	//Calculate letter grade (no else allowed this time)
+	
+	
+	if (percentage >= 90.0)
+	{
+		grade = 'A';
+	}
+	if (percentage >= 80.0 && percentage < 90.0)
+	{
+		grade = 'B';
+	}
+	if (percentage >= 70.0 && percentage < 80.0)
+	{
+		grade = 'C';
+	}
+	if (percentage >= 60.0 && percentage < 70.0)
+	{
+		grade = 'D';
+	}
+	if (percentage < 60.0)
+	{
+		grade = 'F';
+	}
+	
+	//Output letter grade
+	cout << "Your grade with if only is: " << grade << endl << endl;
+
+	withElse(percentage); // call(invoke) statement
+	multiBranch(percentage);
+
+	system("pause");
+	return 0;
+}
+/////////////////////////////////////////////////////////
+void withElse(double percentage) //function header
+{
+	char grade;
+	if (percentage >= 90.0)
+		grade = 'A';
+	else if (percentage >= 80.0)
+		grade = 'B';
+	else if (percentage >= 70.0)
+		grade = 'C';
+	else if (percentage >= 60.0)
+		grade = 'D';
+	else
+		grade = 'F';
+
+	cout << "Using else your grade is: " << grade << endl;
+	return;
+}//withElse
+/////////////////////////////////////////////////////////
+void multiBranch(double percent)
+{
+	int decide; char letterGrade;
+	decide = static_cast <int>(percent) / 10;
+	if (decide > 10)
+		decide = 10;
+	switch (decide)
+	{
+	case 10:
+	case 9:
+		letterGrade = 'A';
+		break;
+	case 8:
+		letterGrade = 'B';
+		break;
+	case 7:
+		letterGrade = 'C';
+		break;
+	case 6:
+		letterGrade = 'D';
+		break;
+	default:
+		letterGrade = 'F';
+	}//switch
+
+	cout << "Using switch statement your grade is: " << letterGrade << endl;
+	return;
+}//multibranch
+
+/* int y = 6
+int x = 11;
+int z = 1;
+
+if(!(y >= 3))=true;
+cout << "true" << endl;
+c
+!
+*/

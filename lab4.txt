@@ -1,0 +1,72 @@
+/* LAB 4
+Write a C++ program to aid the DeAnza Bookstore in estimating its business for next
+quarter.Experience has shown that sales depend on whether a book is required or
+suggested, and on whether or not it has been used before.A new, required book will sell
+to 90 % (.90) of expected enrollment, but if it has been used before only 65 % of the
+expected enrollment will buy it.Similarly, 40 % of the expected enrollment will buy a
+newly suggested book, but only 20 % will purchase a previously suggested book.
+
+Your program is to prompt the user for:
+- the book's 10 digit ISBN number (store as a string)
+- the list price per copy
+- the expected class enrollment
+- code of 'R'for required text or code of 'S' for suggested text
+- code of 'N' for a new text or code of 'O' for a text that has been used the previous
+quarter
+CALCULATE
+Calculate the number of copies needed and the profit if the store pays 80% of list (use
+global define for this). For the number of books to order, round up to the nearest whole
+book.Use one function to calculate number of books, one function to calculate the profit,
+and one function to output.
+OUTPUT A sample run might look like this:
+Enter book number: 0755798652
+Enter price per copy: 34.98
+Enter expected class enrollment: 35
+Enter 'R' if required or 'S' if suggested: r
+Enter 'N' if new or 'O' if not a new text: O
+
+ISBN: 0755798652
+Copies Needed: 23
+Profit: $ 160.91
+TEST DATA
+0755798652,34.98,35,R,O
+3453456784,23.95,100,R,N
+5677655673,54.50,40,R,O
+2462462464,5.95,40,S,O
+8953647888, 65.99, 35, N, Y
+THEME ISSUES
+Functions (pass by value), IF Control Structures, character type, rounding
+*/
+
+
+#include <iostream>
+#include <string>
+#include <iomanip>
+
+using namespace std;
+
+int enroll,book_qty;
+double bookprice, profit;
+string isdn;
+char required,new_used;
+
+int main()
+{
+	cout << "Enter book number : "; // 0755798652
+	cin >> isdn;
+	cout << "Enter price per copy : ";// 34.98
+	cin >> bookprice;
+	cout << "Enter expected class enrollment : "; // 35
+	cin >> enroll;
+	cout << "Enter 'R' if required or 'S' if suggested : "; // r
+	getchar(cin, required);
+	cout << "Enter 'N' if new or 'O' if not a new text : "; // O
+	getchar(cin, new_used);
+
+	if 
+
+
+
+}
+
+

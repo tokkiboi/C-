@@ -1,0 +1,39 @@
+/*
+
+The American College of Sports Medicine recommends that you maintain your training heart rate during
+an aerobic workout.Your traing heart rate is computed as .7 * (220  a) + .3 * r,
+where a is your age and r is your resting heart rate(your pulse when you first awaken).
+Write a program to prompt and input a persons age and resting heart rate.
+Calculate the training heart rate using a separate function.Call this function from main().
+Output this value using a function which is also called from main(). */
+
+
+#include <iostream>
+#include <string>
+#include <iomanip>
+
+using namespace std;
+
+int a, r;
+double hrate;
+
+void hrate(double hrate)
+
+int main()
+{
+	cout << "Enter your age: ";
+	cin >> a;
+	cout << "Enter your resting heart rate: ";
+	cin >> r;
+	hrate(hrate);
+	system("pause");
+	return 0;
+	}
+
+void hrate(double hrate)
+{
+	hrate = .7*(220 - a) + .3*r;
+	cout << "Your training heart rate is: " << static_cast<double>(hrate) << endl;
+	return;
+}
+
