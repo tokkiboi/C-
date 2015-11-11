@@ -1,0 +1,19 @@
+MONTHLY COST OF HOUSE
+
+SELLING PRICE                                $600000.00
+DOWN PAYMENT                                  120000.00
+AMOUNT OF LOAN                                480000.00
+INTEREST RATE                                      5.0%
+TAX RATE                                           1.2%
+DURATION OF LOAN (YEARS)                             20
+
+MONTHLY PAYMENT
+     MORTGAGE                                   3167.79
+     UTILITIES                                   300.00
+     PROPERTY TAXES                             7500.00
+     INSURANCE                                   550.00
+                                              _________
+                                             $ 11517.79
+Student Name:	Alex Kim
+E-mail:		alexkim80@gmail.com
+Program:	Lab #5 - Monthly House Costs
