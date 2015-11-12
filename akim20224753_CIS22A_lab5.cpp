@@ -14,16 +14,24 @@
 #define INSURANCE_COST 550.00
 #define UTILITIES 300.00
 
+// FUNCTION PROTOTYPE DECLARATION
 void input_data(double&,double&,int&);
 void calc(double,double,int,double&,double&,double&,double,double&);
-double loan_amount(double&,double&);
-double downPayment(double&,double&);
+double loan_amount(double,double);
+double downPayment(double,double);
 double mortgage(double,double,int);
 void output_data(double,double,int,double,double,double,double,double);
 void signature();
 
 using namespace std;
 
+// FUNCTION INPUT
+/* PRE:         s_price - Reference to selling price of the house
+                int_rate - Reference to interest rate on the mortgage
+                numYear - Reference to duration of the loan in years
+   POST:        values received will be passed to function caller.
+   PURPOSE:     Prompt user and store data for variables passed by reference and return to function caller */
+     
 void input_data(double& s_price,double& int_rate,int& numYear){
 cout << "Enter the selling price: ";
     cin >> s_price;
@@ -34,42 +42,83 @@ cout << "Enter the number of years for the loan: ";
     cin >> numYear;
     return;}
 
+// FUNCTION MAIN
 int main(){
+    // Variables declaration
     int num_of_years;
     double sell_price,interest_rate,loaner,mortgagePayment,d_payment,property_tax;
+    
+    // Non-global memory constant variable declaration for downpayment rate @ 20%
     const double downpayrate=0.2;
+    
+    // declare fstreaming
+	fstream myfile ("lab5_output.txt");
+    // check to see if file containing previous output exists, if true, rename file and create a new file to open for stream out 
+    if (myfile){
+    cerr << "Previous data exists... backing up.. and opening a new file\n";
+        system("mv lab5_output.txt lab5_output2.txt");
+        myfile.close();
 
-	fstream myfile;
-myfile.open("lab5_output.txt");
+    myfile.open("lab5_output.txt",fstream::out);}
+    else myfile.open("lab5_output.txt", fstream::app);
 
-    input_data(sell_price,interest_rate,num_of_years);
+    // function calls
+    input_data(sell_price,interest_rate,num_of_years);   // variables passed by reference will return with values
     calc(sell_price,interest_rate,num_of_years,loaner,mortgagePayment,d_payment,downpayrate,property_tax);
     output_data(sell_price,interest_rate,num_of_years,loaner,mortgagePayment,d_payment,downpayrate,property_tax);
+    system( "read -n 1 -s -p \"Press any key to continue...\"" );
 return 0;
 }
 
+// FUNCTION CALC
+/*  PRE:        selling price, interest rate, duration of loan downpayment rate passed by value.
+                loan - reference to mortgage loan amount, 
+                mortgagePaument - reference to monthly mortgage payment
+                dPayment - reference to amount of downpayment
+                p_tax - reference to property TAX
+    POST:       compute and define variables passed by reference to return
+    PURPOSE:    invoke sub-functions loan_amount to calculate the amount of loan needed, sub-function downPayment for amount of downpayment to be made, sub-function\
+                mortgagePayment to calculate monthly mortgage payment needed */
+                
 void calc(double s_price,double i_rate,int numOfYears, double& loan,double& mortgagePayment,double& dPayment,double dpay_rate,double& p_tax){
+    // declare and initialize property tax amount
     p_tax=s_price*TAX_RATE;
+    // invoke sub-functions to compute the amount of loan, downpayment, mortgage payment
     loan=loan_amount(s_price,dpay_rate);
     dPayment=downPayment(s_price,dpay_rate);
     mortgagePayment=mortgage(i_rate,loan,numOfYears);
     }
 
-double downPayment(double& sellPrice,double& dpayRate){
+// FUNCTION downPayment
+/*  PRE:        selling price of the house and downpayment rate passed by value
+    POST:       return amount of downpayment
+    PURPOSE:    compute for the amount of downpayment to be made */        
+double downPayment(double sellPrice,double dpayRate){
     double down_payment=sellPrice*dpayRate;
    return down_payment;}
 
-double loan_amount(double& sPrice,double& dpayRate){
+// FUNCTION loan_amount
+/*  PRE:        selling price and downpayment rate passed by value
+    POST:       return loan amount
+    PURPOSE:    calculate the amount of loan needed */
+double loan_amount(double sPrice,double dpayRate){
     double loanamt=sPrice-(sPrice*(dpayRate));
     return loanamt;}
 
+// FUNCTION mortgage
+/*  PRE:        interest rate, loan amount, duration of loan passed by value
+    POST:       return amount of mortgage payment
+    PURPOSE:    calculate the expected monthly mortgage payment */
 double mortgage(double i_rate,double loan,int numOfYears){
     double comp_i_rate=i_rate/12;
     double comp_period=numOfYears*12;
     double mortgage_payment=(((loan*comp_i_rate)*(pow((1+comp_i_rate),comp_period)))/((pow((1+comp_i_rate),comp_period))-1));
     return mortgage_payment;}
 
-
+// FUNCTION output_data
+/*  PRE:        all previously declared variables are defined and passed by values
+    POST:       voided
+    PURPOSE:    stream all output data to a file */
 void output_data(double sellPrice,double intRate,int numberOfYears,double loanamt,double mortgagePayment,double dPayment,double dp_rate,double prop_tax){
 
 string fill=" ";
@@ -93,6 +142,7 @@ myfile << setw(45) << fill << "$ " << setw(8) << setprecision(2) << fixed << rig
 signature();
 myfile.close();}
 
+// FUNCTION signature - my identity
 void signature(){
 fstream myfile;
 myfile.open("lab5_output.txt",fstream::app);
@@ -104,3 +154,4 @@ myfile << position2+"alexkim80@gmail.com" << endl;
 myfile << position3+"Lab #5 - Monthly House Costs" << endl;
 myfile.close();
 }
+
