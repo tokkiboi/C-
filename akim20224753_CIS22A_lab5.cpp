@@ -154,4 +154,3 @@ myfile << position2+"alexkim80@gmail.com" << endl;
 myfile << position3+"Lab #5 - Monthly House Costs" << endl;
 myfile.close();
 }
-
