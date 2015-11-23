@@ -19,9 +19,9 @@ using namespace std;
 int main()
 {
 	// Declaring variables
-	double c_index;
-	double max;
-	double min;
+	double c_index=0;
+	double max=c_index;
+	double min=c_index;
 	string state_name,max_string,min_string;
 	double groceries,housing,utilities,transportation,health,misc;
 	char ch='\n';
