@@ -1,0 +1,1310 @@
+Anniston-Calhoun, County, ALt
+ 101.2 74.8 111.2 88.8 89.3 96.6
+Akron OH
+ 105.1 99.7 107.9 107.1 86.8 96
+Albany, GA
+ 108.7 74.8 82 96.6 89.8 96.8
+Albany, NY
+ 105 112.6 101 102.8 111.7 108.6
+Alexandria, LA
+ 96 92.7 89.9 97.2 92.9 98.2
+Amarillo, TX
+ 89.9 89.4 80.4 92.1 95.2 90.8
+Americus, GA
+ 105.5 71 88.2 99.8 103.7 91.3
+Ames, IA
+ 93.7 104.8 82.3 101.8 98.4 93.7
+Anchorage, AK
+ 134.5 142.9 94.1 122 135.7 124.8
+Anderson, SC
+ 103.4 77 101.6 92.3 99.7 95.9
+Appleton, WI
+ 93 81.8 102.3 104.4 104.7 96
+Ardmore, OK
+ 92.9 77.3 84.8 101.3 93.7 89.8
+Arlington, TX
+ 94.4 89.4 109.9 98.3 105.4 106.4
+Asheville, NC
+ 104.6 97.8 113.1 94.2 104.7 100.6
+Ashland, OH
+ 100.7 72.1 92.1 98.2 88.8 94.2
+Atlanta, GA
+ 96.2 90.7 86.3 99.3 103.3 100.3
+Auburn-Opelika, AL
+ 104.6 90.2 101.3 92.9 88.4 106.5
+Augusta-Aiken, GA-SC
+ 106 79.4 92.1 93.9 101.4 99.4
+Austin, TX
+ 89.3 85.1 110.7 100.2 100.3 100.4
+Bakersfield, CA
+ 107.6 98.4 104.3 111.3 107.2 103.1
+Baltimore, MD
+ 110.8 155.4 112.5 105.3 97.9 100
+Baton, Rouge, LA
+ 100.4 102.2 78.2 90.4 97.7 95.8
+Beaufort, SC
+ 106.9 103.5 114.3 99.6 95.7 106
+Beaumont, TX
+ 87.1 95.9 92.5 100.4 98.7 98.1
+Bellingham, WA
+ 114.9 135.9 83.8 113.2 115.3 100.8
+Bergen-Passaic, NJ
+ 112.1 174 128.9 102.4 106.3 113.8
+Bethesda-Gaithersburg-Frederick, MD
+ 108.5 184.2 120.6 110.1 104 104.4
+Binghamton, NY
+ 92.4 92.6 112.8 104.4 114.3 97.7
+Birmingham, AL
+ 93.5 73.2 105.7 93.5 87.9 100.3
+Bismarck-Mandan, ND
+ 105.9 91.5 70.1 102.6 100.5 99.4
+Blacksburg, VA
+ 91.5 94.9 102.3 91.1 97.5 95.1
+Boise, ID
+ 98.5 84 99.6 108 106.6 103.3
+Boston, MA
+ 116.7 152.7 138.6 104.5 123.5 128.6
+Bowling, Green, KY
+ 93.3 78.2 104.3 96.7 95.8 94
+Bozeman, MT
+ 107.3 101.8 89.1 101.6 102.4 104
+Bradenton, FL
+ 106.6 90.2 90.4 101.3 98.8 96.1
+Brazoria, County, TX
+ 87.9 75.8 100.8 96 95.6 95.6
+Brownsville, TX
+ 88.6 71 93.1 95 96.5 91.4
+Buffalo, NY
+ 91.8 97.4 115.6 104.8 92 87.6
+Burlington, IA
+ 93.8 94.6 108.6 98.6 89.9 97.1
+Burlington, NC
+ 98.6 86 82.3 97.5 102.5 102.5
+Burlington-Chittenden, Co, VT
+ 112.9 138.7 122.2 102.5 104.6 114.2
+Camden, SC
+ 103.4 87.8 107.5 86 93.1 104.3
+Cape, Coral-Fort, Myers, FL
+ 107.9 87.5 83.7 103 98.7 98.9
+Carlsbad, NM
+ 102.6 86.6 99.3 95.3 96 98.9
+Cedar, City, UT
+ 102.5 73.9 83.7 97.8 85.5 95.5
+Cedar, Rapids, IA
+ 94.8 79.1 101.6 97.1 94.4 97.5
+Champaign-Urbana, IL
+ 98.5 90.8 97.1 98.2 100.5 100.7
+Chapel, Hill, NC
+ 100.9 127 85.7 122.8 105.8 112.1
+Charleston, WV
+ 88.8 89.3 96.7 102.9 93.9 92.9
+Charleston-N, Charleston, SC
+ 105.7 92.6 96.6 93.9 104.4 101.5
+Charlotte, NC
+ 97.1 79.5 91.2 95.7 110.3 101.4
+Charlottesville, VA
+ 101.2 122.6 100.8 90.6 94.5 104
+Chattanooga, TN
+ 97.4 84 82.5 96.4 93.3 95.7
+Cheyenne, WY
+ 101.7 107.9 96.3 95 98.3 96.5
+Chicago, IL
+ 111.2 134.8 117.3 116.5 108.5 104.4
+Cincinnati, OH
+ 96.4 81.9 103.8 98 95.8 98.7
+Clarksburg, WV
+ 95.2 93.1 92.2 103.8 89.5 95.5
+Clarksville, TN
+ 87.9 86 86.5 93.9 98.7 102.3
+Cleveland, OH
+ 108.1 93.3 109 101.4 104.3 102.1
+Cleveland, TN
+ 101.6 87.7 103.4 91.9 91.3 92.9
+Colorado, Springs, CO
+ 95.4 92 86.8 96.2 102.3 92.1
+Columbia, MO
+ 92.6 81.4 90.4 96.3 96.4 99.1
+Columbia, SC
+ 105.2 82.3 109 102 106.2 110.6
+Columbus, OH
+ 91.6 86.2 100.2 99.1 107.7 90.6
+Conroe, TX
+ 89.4 80.1 96.1 93.8 95 99.7
+Conway, AR
+ 97.9 78.8 92 96.6 89.8 84
+Cookeville, TN
+ 86.7 71.4 82.9 87.5 87.1 98.2
+Corpus, Christi, TX
+ 82.4 79.6 113.5 93.3 92.8 96
+Covington, KY
+ 86 76.8 100.2 99.9 90.6 90.3
+Dallas, TX
+ 96.2 70.7 105.5 100.9 103.8 100.4
+Danville, IL
+ 94.6 74.2 116.4 109.3 95.8 90.7
+Dare, County, NC
+ 111.7 116.7 92.9 110.2 111.7 100.4
+Davenport-Moline-Rock, Is, IA-IL
+ 98.7 98.7 81.4 104.3 97.9 96.8
+Dayton, OH
+ 89.2 74.5 106.1 103.1 93.2 99
+Decatur, IL
+ 89.1 88.2 92.2 96.7 91.9 93.3
+Decatur-Hartselle, AL
+ 98.5 74.2 90.6 96.7 85.5 96.6
+Denver, CO
+ 101 107.5 101.9 95.4 105.9 102.7
+Des, Moines, IA
+ 90.9 89.6 90.2 95.9 90.8 90.9
+Detroit, MI
+ 92.7 95.2 129.5 101.3 94.2 96.6
+Dodge, City, KS
+ 90 77.6 85.5 95.6 89.9 98.5
+Dothan, AL
+ 100.3 80.1 79.7 91.8 81.7 97.9
+Douglas, GA
+ 104.1 68.5 97.9 89.3 91.3 96.6
+Dover, DE
+ 110.4 90.9 108.8 97.5 103 100.7
+Dubuque, IA
+ 98.1 86.5 105.2 99.5 96.5 99.5
+Durham, NC
+ 97.9 86.8 96.3 105.5 108.5 100.6
+Dutchess, County, NY
+ 109.8 141.3 118.8 109.3 110.4 111.1
+Dyersburg, TN
+ 93.4 73.8 95.2 92.9 86.3 96.7
+Eau, Claire, WI
+ 97.6 90.5 84.8 103.1 105.5 93.5
+Edmond, OK
+ 88.7 82.8 90.2 97.7 94.3 98.9
+El, Paso, TX
+ 99.9 86 88.1 97 95.4 88.5
+Elkhart-Goshen, IN
+ 91.4 92.7 84.5 99.7 92.8 97.5
+Enid, OK
+ 103.5 77.4 96.1 99.5 99.5 100.7
+Erie, PA
+ 96.4 91.1 96 98.4 91.2 88.4
+Eugene, OR
+ 93.8 132.3 85.3 110 118.2 102.9
+Evansville, IN
+ 97.9 86.3 120 97.1 97.4 96.4
+Everett, WA
+ 112 128.1 85.4 110.4 129.1 102.1
+Fairbanks, AK
+ 127.9 148.5 193.1 118.7 144.9 118.8
+Fargo-Moorhead, ND-MN
+ 99.8 87.4 78.7 95.8 102.4 96.6
+Farmington, NM
+ 101.8 97.1 87.1 96.4 98.6 98.2
+Fayetteville, AR
+ 95.3 77.3 99.8 95.2 92.7 100.6
+Fayetteville, NC
+ 105.1 82.5 92.8 96 117.9 100.1
+Findlay, OH
+ 102.3 77 95.8 100.6 91.2 104.3
+Fitchburg-Leominster, MA
+ 99.3 97.1 140.6 99.9 112.3 98.6
+Flagstaff, AZ
+ 106.6 149.3 92.5 105.5 100 99.5
+Florence, AL
+ 96.6 79.6 91 94.5 84.1 96.3
+Fort, Lauderdale, FL
+ 112.5 144 92.5 106.3 102.4 103.7
+Fort, Smith, AR
+ 92.5 74.5 90.5 87.9 87.5 91.7
+Fort, Wayne-Allen, County, IN
+ 93.3 89.3 87.3 106.9 93.4 98
+Fort, Worth, TX
+ 89.8 78 106.2 97.6 93.8 96.1
+Framingham-Natick, MA
+ 109.4 177.2 131.9 105 116.1 118.8
+Fresno, CA
+ 115.8 131.2 123.6 114.5 106.8 105.9
+Gainesville, FL
+ 106.3 101.8 99.2 103.3 92.7 95.5
+Galesburg, IL
+ 99.7 80 103.1 96.1 97.3 97.2
+Garden, City, KS
+ 91.2 79.9 86.5 94 89.6 97.5
+Glens, Falls, NY
+ 105.4 105.9 128 107 97.3 119.3
+Glenwood, Springs, CO
+ 103.3 169 89 110.9 112 108.7
+Grand, Junction, CO
+ 101.9 105.4 86.4 99.1 103.8 93.1
+Grand, Rapids, MI
+ 102.7 77.6 100.6 103.7 94.4 90
+Green, Bay, WI
+ 88.8 83.5 118.6 100.2 105.9 97.7
+Greenville, NC
+ 105.9 84.4 108.5 97.6 113.5 103.3
+Greenville, SC
+ 102.7 72.9 90.1 97.1 98.2 97.7
+Gunnison, CO
+ 110.6 134.5 85.7 99 97.3 100.6
+Hammond, LA
+ 99 95.8 84.8 93 97.4 98.9
+Hampton, Roads-SE, Virginia, VA
+ 106.6 121.9 108.4 104.1 109.6 108.4
+Harlingen, TX
+ 81.5 75.8 105.6 88.7 95.2 79.1
+Harrisburg, PA
+ 97.8 91.5 110.5 100.2 93.8 105.1
+Harrisonburg, VA
+ 97.5 96.8 96.8 90.4 100.8 98.6
+Hartford, CT
+ 120.7 137.8 120.7 109 113 113.5
+Hastings, NE
+ 103.7 89.1 94 87.6 85.8 95.6
+Hattiesburg, MS
+ 100.5 74.6 110.3 96.9 95.4 96.2
+Hays, KS
+ 92 78.8 92.4 97.5 90.7 94.2
+Hickory, NC
+ 101.1 91.3 92.3 86.5 93.8 93
+Hilton, Head, Island, SC
+ 111.4 119.8 100.4 101.6 110.7 118.5
+Honolulu, HI
+ 160.1 249 146.6 126.2 120 117.9
+Hot, Springs, AR
+ 97.3 85.3 95.7 85.6 84.8 102.9
+Houston, TX
+ 85.1 82 97.7 99.2 94.6 99.9
+Huntsville, AL
+ 94.9 78.7 86.1 99.7 92 99.8
+Hutchinson, KS
+ 89 92.3 84.4 96.5 94.2 99.6
+Idaho, Falls, ID
+ 99.5 78 84.9 102.1 93.2 96.3
+Indiana, County, PA
+ 99.7 84.2 97.7 97.7 91.1 96.4
+Indianapolis, IN
+ 91.4 73.4 86.7 100.5 93.6 93.1
+Iowa, City, IA
+ 94.9 97.3 80.1 102.8 95.4 99
+Ithaca, NY
+ 102.9 104.4 110.4 104.7 106.6 98.1
+Jackson, MS
+ 93 94 118.1 92 95.7 96.1
+Jackson-Madison, County, TN
+ 91.1 74.2 98.9 100 91.5 98.1
+Jacksonville, FL
+ 102.8 80 91.9 103.6 94.5 97.3
+Jacksonville, NC
+ 103.2 88 99.2 97.8 101.2 99.6
+Janesville, WI
+ 95 91.3 99.3 99.3 103.1 98.2
+Jefferson, City, MO
+ 93.9 78.5 97.6 93.3 95 103.4
+Johnson, City, TN
+ 92.3 74.4 89.1 91.7 91.5 92.6
+Johnstown, PA
+ 97.7 79.4 101 101.6 90.4 98.1
+Joliet-Will, County, IL
+ 100.9 102.3 116.1 111.3 106.5 95.2
+Jonesboro, AR
+ 97.5 75.1 91.1 88.8 85.9 97.3
+Joplin, MO
+ 92.2 75.9 108.1 91.8 89.5 92
+Juneau, AK
+ 133.1 165.7 135.1 121.2 144.4 116.1
+Kalamazoo, MI
+ 95.6 81.3 101.8 99.4 92.5 92.4
+Kalispell, MT
+ 116.3 95.5 82 103.6 104.8 97.8
+Kansas, City, MO-KS
+ 94.8 89.2 99.8 100.8 97.2 105.1
+Kennewick-Richland-Pasco, WA
+ 90.9 85.9 85.1 106.1 109.9 95.2
+Kinston, NC
+ 102.5 76.1 108.8 96.7 102.9 99.3
+Knoxville, TN
+ 91.4 82 95.1 84.2 88.4 95.1
+Kodiak, AK
+ 149.4 127.8 131.9 143.4 130.7 115.4
+Lafayette, IN
+ 95.6 82.4 116.5 106.2 116.3 102.7
+Lafayette, LA
+ 93.5 110.1 81.2 104 88.8 97.3
+Lake, Charles, LA
+ 99.8 103.4 89.5 97.1 84.4 95.4
+Lake, Havasu, City, AZ
+ 107 139.3 95.9 93.5 98 101.7
+Lancaster, PA
+ 101.3 118.4 111 99.7 95.1 100.9
+Laramie, WY
+ 105.1 102.3 90.5 91.6 97.5 92.7
+Las, Cruces, NM
+ 103.7 104.4 93.7 99 96.5 99.1
+Las, Vegas, NV
+ 106.8 94.1 97.7 104.9 109 106.2
+Lawrence, KS
+ 89.1 96 91.9 96.2 97.5 95.6
+Lawton, OK
+ 96.3 87 87.5 106.9 96.2 96.6
+Lexington, KY
+ 86.9 88.7 93.9 97.6 93.7 97.1
+Lexington-Buena, Vista-Rockbridge, VA
+ 92.1 97.8 94.3 91.2 90.7 91.7
+Lima, OH
+ 101.9 69.8 102.5 100.7 107.7 103.2
+Little, Rock-North, Little, Rock, AR
+ 92.9 92.2 104.1 94 93.5 100.4
+Logan, UT
+ 104.7 68.4 85.3 113.6 97.2 113.7
+Los, Alamos, NM
+ 97.1 128.1 91.2 110.7 102.6 104.7
+Los, Angeles-Long, Beach, CA
+ 106 207.1 101.7 113.6 109.1 107
+Louisville, KY
+ 81.6 78.7 99.1 96.9 87.2 91.9
+Loveland, CO
+ 102.7 79.3 89.6 91.4 100.3 95.7
+Lubbock, TX
+ 90 80.4 74.8 97.6 98.3 97.1
+Lufkin, TX
+ 87.8 83.4 98.7 94 105.5 98.3
+Lynchburg, VA
+ 90.7 92.7 109.7 88.8 100.1 95.8
+Manchester, NH
+ 102.3 117 124.5 100.1 116.1 125
+Manhattan, KS
+ 92.5 98.7 86.9 99 91.6 94.4
+Mankato, MN
+ 93.8 76.5 113.5 103.1 104.3 96.4
+Marietta, GA
+ 96.8 84.7 90.3 97.1 107.9 101.9
+Marion-McDowell, County, NC
+ 103.1 87.9 94 89.5 96.3 90.9
+Marshfield, WI
+ 95.3 92.2 99.9 96.8 103.6 91.7
+Martinsburg-Berkeley, County, WV
+ 91.5 82.7 85.9 103.9 99.9 90.6
+Martinsville-Henry, County, VA
+ 94 77.6 89.1 82.9 87.6 93.2
+Mason, City, IA
+ 89.4 73.1 105.6 99.5 94.8 94.2
+McAllen, TX
+ 79.8 77.6 103.1 92.4 97.9 84.3
+Memphis, TN
+ 92.7 76.2 86.9 91.5 98.6 95.2
+Miami-Dade, County, FL
+ 110.9 107.7 91.9 108.8 105.7 106.2
+Middlesex-Monmouth, NJ
+ 108.9 154.1 128.6 103.9 108.9 112.2
+Midland, TX
+ 89.7 89.2 93.4 95.7 98.7 96.6
+Milwaukee-Waukesha, WI
+ 98.1 112.7 98.6 99.2 108.1 94.8
+Minneapolis, MN
+ 111.6 116.8 104.7 103.7 105.4 110.4
+Minot, ND
+ 99.3 95.9 73.5 98.2 91 113.6
+Missoula, MT
+ 110.2 92.2 98.3 102.2 107.2 100.1
+Mobile, AL
+ 102.7 80.4 104.4 93 86.5 96.7
+Monroe, LA
+ 95.8 83 89.1 97.5 96 99.3
+Montgomery, AL
+ 102.9 96 108.4 99.6 88 99.1
+Morgantown, WV
+ 93.9 111.9 89.9 100.7 96.1 97.1
+Morristown, TN
+ 91.6 81.5 80.5 93.9 90.1 101.4
+Muncie, IN
+ 91 80.3 98.5 94.5 87.4 97.6
+Murfreesboro-Smyrna, TN
+ 94.3 76.2 81 92.7 95.8 96.2
+Muskogee, OK
+ 98 68.3 97.5 80.8 96.7 93.5
+Myrtle, Beach, SC
+ 105.7 78.4 104.5 94.7 100.4 102.4
+Nacogdoches, TX
+ 91 83.3 97.7 93.8 102.6 98
+Nashville-Franklin, TN
+ 91.7 71.3 82.6 92.5 87.3 104.5
+Nassau, County, NY
+ 123 206.7 140.7 113.1 119.7 115.3
+New, Haven, CT
+ 117.9 134.9 123.5 106.3 112.7 117.9
+New, York, (Brooklyn), NY
+ 130.6 317.8 165 103 111.5 119.5
+New, York, (Manhattan), NY
+ 154.3 386.7 169.6 120.3 130.2 145.7
+New, York, (Queens), NY
+ 128.3 230.8 172 108.8 118 123.9
+Newark-Elizabeth, NJ
+ 111.6 168.5 129.2 103.9 103.1 113.9
+Norman, OK
+ 95.3 88.7 91.6 104 96.6 96.8
+Oakland, CA
+ 116.8 198.8 94.7 113.6 119.9 119
+Odessa, TX
+ 91.2 88.1 88.8 93.6 96.6 92.4
+Oklahoma, City, OK
+ 92.9 86 88.1 92.6 99.4 96.2
+Olympia, WA
+ 107.4 102.2 82.1 114.9 120.5 106
+Omaha, NE
+ 92 79.3 89.9 100 96.8 89.7
+Orange, County, CA
+ 104.5 242.8 103.2 114.6 111.6 105.2
+Orlando, FL
+ 97.8 85.4 108.5 101.8 95.5 104.5
+Paducah, KY
+ 94.8 75.8 96.5 86.6 90.3 91.3
+Palm, Springs, CA
+ 111.5 154.2 112.7 110.2 100.8 106.1
+Panama, City, FL
+ 93.7 101.5 99.7 108.8 94.5 97.6
+Paris, TX
+ 93.6 80 87.4 94.1 94 93
+Pascagoula, MS
+ 101 84.3 91.4 97.4 91.6 94.6
+Peoria, IL
+ 93.4 95 97.2 101.4 95.8 96.8
+Philadelphia, PA
+ 124.9 141.3 135.9 105.8 108.2 119.6
+Phoenix, AZ
+ 108.1 90.4 96.6 108.9 108.8 104.6
+Pittsburgh, PA
+ 104.1 74.4 97 105.9 90.1 95.8
+Pittsfield, MA
+ 115 96.2 161.9 98.9 105 110
+Plano, TX
+ 101.3 85.2 103.9 101.8 102.9 102.6
+Plattsburgh, NY
+ 98.9 95.1 119.4 105.5 113 95.9
+Ponca, City, OK
+ 94.8 76.6 93 94.4 94.4 97
+Portland, ME
+ 101.8 143 102.9 111.8 109.7 105.5
+Portland, OR
+ 105.8 130.8 87.1 105.8 113.6 105.1
+Prescott-Prescott, Valley, AZ
+ 95.2 118.1 91.8 100.3 97.8 99.7
+Providence, RI
+ 113.4 129 129 102.5 113.2 128.1
+Pryor, Creek, OK
+ 95 71.5 82.7 86.6 86 91.5
+Pueblo, CO
+ 100.5 71.5 80.1 93.8 94.1 90.1
+Quincy, IL
+ 97.4 94.5 95.5 94.2 99.8 95.5
+Raleigh, NC
+ 104.2 88.8 105.6 96.7 101 101.9
+Reno-Sparks, NV
+ 105.4 101.5 91.2 107.3 101.8 100
+Richmond, IN
+ 83.3 84.6 106.4 98.4 95.1 91.7
+Richmond, VA
+ 103.6 103.2 113.9 100.8 112.6 103.2
+Rio, Rancho, NM
+ 92 90.5 88.6 94.7 100.2 101.8
+Riverside, City, CA
+ 104.9 136.3 99.9 113.4 104.4 99.1
+Roanoke, VA
+ 89.7 92.2 104.1 91.1 97.9 94.8
+Rochester, MN
+ 89.6 91.1 104.8 106.3 109.5 105
+Rochester, NY
+ 94.6 94.2 114.4 108.7 99.7 100.2
+Rockford, IL
+ 92.6 74.7 111.2 105.8 103.3 96.8
+Roswell, NM
+ 105.6 82.9 104.3 97.5 101.2 99.9
+Round, Rock, TX
+ 81.9 78 107 87.6 96.6 97.6
+Sacramento, CA
+ 114.7 135.7 109.6 114.4 110.8 102.8
+Salina, KS
+ 86.9 76 87 94.7 94.9 93.1
+Salt, Lake, City, UT
+ 100.1 108 72.5 102.1 98.8 102.9
+San, Angelo, TX
+ 89.3 84 106 97.6 96.7 94.9
+San, Antonio, TX
+ 84.9 95.3 82.8 100.7 99.9 102.2
+San, Diego, CA
+ 105.5 194.4 101.9 113.1 111.5 105.8
+San, Francisco, CA
+ 111.9 281 94.5 113 117 124.3
+San, Jose, CA
+ 115.3 260.3 137.2 114 119 103.6
+San, Marcos, TX
+ 88.7 100.1 86.8 90.1 92.6 96.8
+Sarasota, FL
+ 107.7 102.9 97.4 102.5 105.2 98.1
+Savannah, GA
+ 94.7 84 94 98.4 99 99.1
+Seattle, WA
+ 115.1 140.3 85.7 118.8 119.9 119.1
+Seguin, TX
+ 90.7 78.5 103.8 95.6 96.9 95.1
+Sheboygan, WI
+ 94.3 97.5 117.3 105.9 105.5 100.8
+Shreveport-Bossier, City, LA
+ 95.2 93.5 89.4 93.4 93.1 99.6
+Sierra, Vista, AZ
+ 96.5 99.7 97.2 104 96.1 95.5
+Sioux, Falls, SD
+ 91.5 86.6 101.6 86.9 102.2 100.6
+Slidell-St., Tammany, Parish, LA
+ 95.1 101 82.2 96.2 93.4 99.4
+South, Bend, IN
+ 91.3 84.2 92.3 95.4 96.3 97.3
+Spokane, WA
+ 92.4 85.7 89.5 109.1 110 96.5
+Springfield, IL
+ 89.7 70.1 79.8 104.5 106.5 91.7
+Springfield, MO
+ 93.2 76.8 83.2 96.8 95.3 93.8
+St., Cloud, MN
+ 101.7 80.7 117.2 99.9 102 105.8
+St., George, UT
+ 99.9 94.2 85.9 100.4 87.8 98.4
+St., Joseph, MO
+ 95.4 86.5 93.7 90.1 94.9 96
+St., Louis, MO-IL
+ 98.4 74.6 92.9 99 100.8 96.5
+St., Paul, MN
+ 107 112.9 106.8 103.4 106.7 112.2
+Stamford, CT
+ 121.8 212.6 121.3 110 113.3 122.1
+Staunton-Augusta, County, VA
+ 98.3 93.7 100 94.5 98.1 96.6
+Stillwater, OK
+ 95.5 81.2 97.9 88.8 95.7 93.1
+Sumter, SC
+ 103.4 90.2 108.4 97.8 91.3 95.3
+Syracuse, NY
+ 98.6 91.4 118.4 108.3 97.8 104.8
+Tacoma, WA
+ 111.3 116.6 83.1 109 115.1 110.2
+Tampa, FL
+ 96.3 84.7 93.8 103.3 98.4 93.4
+Temple, TX
+ 83.7 71.8 107.6 97.9 91.2 92.8
+Thomasville-Lexington, NC
+ 105.5 77.2 80.7 88.8 109.1 93.5
+Topeka, KS
+ 92.9 84 85.8 97.4 93.2 98.1
+Troy-Miami, County, OH
+ 96.4 83.9 123.3 99.2 89.2 96.2
+Truckee-Nevada, County, CA
+ 132.2 208.3 114.3 121.5 112 120.5
+Tucson, AZ
+ 97.2 91.9 86.7 104.6 99.2 100.5
+Tulsa, OK
+ 91.9 66.5 95.2 99.1 94.6 100.5
+Tupelo, MS
+ 91.1 72.3 110.1 93.8 86.6 92.7
+Tuscaloosa, AL
+ 104.9 80.6 105.9 102.8 90.2 97.4
+Twin, Falls, ID
+ 95.5 81.4 97 99.2 93.3 94.6
+Tyler, TX
+ 92.7 91.5 102.1 100.2 93.1 99.3
+Valdosta, GA
+ 111.8 85.3 89 96.7 102.2 94.5
+Vancouver, WA
+ 96.9 82.2 91.8 106.1 114.3 100.1
+Vero, Beach-Indian, River, FL
+ 109.1 83.5 104.5 97.8 97.7 102.5
+Waco, TX
+ 81.8 88.5 85.3 97.6 90.9 90.5
+Washington-Arlington-Alexandria, DC-VA
+ 107.9 226.4 97.3 109.3 103.4 103.7
+Waterloo-Cedar, Falls, IA
+ 89.5 89.6 88.2 99.4 95.9 92.8
+Wausau, WI
+ 100 89.6 98.4 97.5 101.3 99.7
+Weatherford, TX
+ 95.9 79.7 107.4 96.2 93.1 93.3
+Wichita, Falls, TX
+ 91.9 84 84.4 82.5 94.5 87.4
+Wichita, KS
+ 90.5 83.6 89.7 100.6 96.7 97.1
+Williamsport-Lycoming, Co, PA
+ 103.5 96.3 127.7 91.8 92.6 98.9
+Wilmington, DE
+ 108.1 102 115.4 98.6 108.7 105.2
+Wilmington, NC
+ 108 89.7 108.5 97.6 100.1 100.3
+Winchester, VA-WV
+ 104.6 94.5 98.2 96.8 105 110.9
+Winston-Salem, NC
+ 98.5 82.9 88.5 83.3 99.3 101.5
+Wooster, OH
+ 99.5 72.1 123.4 103 94.6 95.2
+Yakima, WA
+ 99.8 86.9 86.8 105.5 117.1 99.2
+York, County, PA
+ 98.4 106 102.6 97.7 96.8 102
+Youngstown-Warren, OH
+ 92.6 77.7 110.2 92.4 86.9 94.4
+Yuma, AZ
+ 107.4 96.4 112.2 104.6 107.8 97.6
+
+State Name:		Anniston-Calhoun, County, ALt
+Composite Index:	 90.5
+State Name:		Akron OH
+Composite Index:	 99.7
+State Name:		Albany, GA
+Composite Index:	 89.6
+State Name:		Albany, NY
+Composite Index:	108.2
+State Name:		Alexandria, LA
+Composite Index:	 94.7
+State Name:		Amarillo, TX
+Composite Index:	 89.9
+State Name:		Americus, GA
+Composite Index:	 89.5
+State Name:		Ames, IA
+Composite Index:	 97.3
+State Name:		Anchorage, AK
+Composite Index:	129.2
+State Name:		Anderson, SC
+Composite Index:	 92.0
+State Name:		Appleton, WI
+Composite Index:	 94.2
+State Name:		Ardmore, OK
+Composite Index:	 87.9
+State Name:		Arlington, TX
+Composite Index:	 99.2
+State Name:		Asheville, NC
+Composite Index:	101.3
+State Name:		Ashland, OH
+Composite Index:	 88.3
+State Name:		Atlanta, GA
+Composite Index:	 95.8
+State Name:		Auburn-Opelika, AL
+Composite Index:	 97.2
+State Name:		Augusta-Aiken, GA-SC
+Composite Index:	 93.3
+State Name:		Austin, TX
+Composite Index:	 95.5
+State Name:		Bakersfield, CA
+Composite Index:	103.9
+State Name:		Baltimore, MD
+Composite Index:	119.1
+State Name:		Baton, Rouge, LA
+Composite Index:	 96.1
+State Name:		Beaufort, SC
+Composite Index:	104.2
+State Name:		Beaumont, TX
+Composite Index:	 95.8
+State Name:		Bellingham, WA
+Composite Index:	114.3
+State Name:		Bergen-Passaic, NJ
+Composite Index:	130.3
+State Name:		Bethesda-Gaithersburg-Frederick, MD
+Composite Index:	130.3
+State Name:		Binghamton, NY
+Composite Index:	 99.8
+State Name:		Birmingham, AL
+Composite Index:	 89.8
+State Name:		Bismarck-Mandan, ND
+Composite Index:	 95.5
+State Name:		Blacksburg, VA
+Composite Index:	 95.1
+State Name:		Boise, ID
+Composite Index:	 97.7
+State Name:		Boston, MA
+Composite Index:	131.5
+State Name:		Bowling, Green, KY
+Composite Index:	 90.9
+State Name:		Bozeman, MT
+Composite Index:	101.8
+State Name:		Bradenton, FL
+Composite Index:	 96.1
+State Name:		Brazoria, County, TX
+Composite Index:	 89.4
+State Name:		Brownsville, TX
+Composite Index:	 86.3
+State Name:		Buffalo, NY
+Composite Index:	 96.4
+State Name:		Burlington, IA
+Composite Index:	 96.4
+State Name:		Burlington, NC
+Composite Index:	 94.6
+State Name:		Burlington-Chittenden, Co, VT
+Composite Index:	119.4
+State Name:		Camden, SC
+Composite Index:	 96.2
+State Name:		Cape, Coral-Fort, Myers, FL
+Composite Index:	 95.7
+State Name:		Carlsbad, NM
+Composite Index:	 95.1
+State Name:		Cedar, City, UT
+Composite Index:	 88.0
+State Name:		Cedar, Rapids, IA
+Composite Index:	 91.8
+State Name:		Champaign-Urbana, IL
+Composite Index:	 96.9
+State Name:		Chapel, Hill, NC
+Composite Index:	112.9
+State Name:		Charleston, WV
+Composite Index:	 93.0
+State Name:		Charleston-N, Charleston, SC
+Composite Index:	 98.4
+State Name:		Charlotte, NC
+Composite Index:	 93.9
+State Name:		Charlottesville, VA
+Composite Index:	106.0
+State Name:		Chattanooga, TN
+Composite Index:	 91.0
+State Name:		Cheyenne, WY
+Composite Index:	100.5
+State Name:		Chicago, IL
+Composite Index:	117.3
+State Name:		Cincinnati, OH
+Composite Index:	 93.6
+State Name:		Clarksburg, WV
+Composite Index:	 94.7
+State Name:		Clarksville, TN
+Composite Index:	 92.7
+State Name:		Cleveland, OH
+Composite Index:	101.2
+State Name:		Cleveland, TN
+Composite Index:	 93.3
+State Name:		Colorado, Springs, CO
+Composite Index:	 93.7
+State Name:		Columbia, MO
+Composite Index:	 91.6
+State Name:		Columbia, SC
+Composite Index:	100.0
+State Name:		Columbus, OH
+Composite Index:	 93.5
+State Name:		Conroe, TX
+Composite Index:	 91.0
+State Name:		Conway, AR
+Composite Index:	 87.3
+State Name:		Cookeville, TN
+Composite Index:	 84.8
+State Name:		Corpus, Christi, TX
+Composite Index:	 90.5
+State Name:		Covington, KY
+Composite Index:	 88.0
+State Name:		Dallas, TX
+Composite Index:	 92.2
+State Name:		Danville, IL
+Composite Index:	 91.8
+State Name:		Dare, County, NC
+Composite Index:	108.4
+State Name:		Davenport-Moline-Rock, Is, IA-IL
+Composite Index:	 97.1
+State Name:		Dayton, OH
+Composite Index:	 91.1
+State Name:		Decatur, IL
+Composite Index:	 91.4
+State Name:		Decatur-Hartselle, AL
+Composite Index:	 88.4
+State Name:		Denver, CO
+Composite Index:	103.3
+State Name:		Des, Moines, IA
+Composite Index:	 91.0
+State Name:		Detroit, MI
+Composite Index:	 99.3
+State Name:		Dodge, City, KS
+Composite Index:	 88.7
+State Name:		Dothan, AL
+Composite Index:	 88.6
+State Name:		Douglas, GA
+Composite Index:	 88.0
+State Name:		Dover, DE
+Composite Index:	 99.8
+State Name:		Dubuque, IA
+Composite Index:	 95.8
+State Name:		Durham, NC
+Composite Index:	 97.4
+State Name:		Dutchess, County, NY
+Composite Index:	120.2
+State Name:		Dyersburg, TN
+Composite Index:	 87.8
+State Name:		Eau, Claire, WI
+Composite Index:	 94.9
+State Name:		Edmond, OK
+Composite Index:	 91.3
+State Name:		El, Paso, TX
+Composite Index:	 91.1
+State Name:		Elkhart-Goshen, IN
+Composite Index:	 93.7
+State Name:		Enid, OK
+Composite Index:	 93.6
+State Name:		Erie, PA
+Composite Index:	 92.5
+State Name:		Eugene, OR
+Composite Index:	111.2
+State Name:		Evansville, IN
+Composite Index:	 96.2
+State Name:		Everett, WA
+Composite Index:	113.5
+State Name:		Fairbanks, AK
+Composite Index:	139.1
+State Name:		Fargo-Moorhead, ND-MN
+Composite Index:	 93.2
+State Name:		Farmington, NM
+Composite Index:	 97.1
+State Name:		Fayetteville, AR
+Composite Index:	 91.5
+State Name:		Fayetteville, NC
+Composite Index:	 96.6
+State Name:		Findlay, OH
+Composite Index:	 93.3
+State Name:		Fitchburg-Leominster, MA
+Composite Index:	104.3
+State Name:		Flagstaff, AZ
+Composite Index:	114.9
+State Name:		Florence, AL
+Composite Index:	 89.3
+State Name:		Fort, Lauderdale, FL
+Composite Index:	115.6
+State Name:		Fort, Smith, AR
+Composite Index:	 85.7
+State Name:		Fort, Wayne-Allen, County, IN
+Composite Index:	 94.3
+State Name:		Fort, Worth, TX
+Composite Index:	 90.9
+State Name:		Framingham-Natick, MA
+Composite Index:	133.8
+State Name:		Fresno, CA
+Composite Index:	117.4
+State Name:		Gainesville, FL
+Composite Index:	 99.7
+State Name:		Galesburg, IL
+Composite Index:	 93.0
+State Name:		Garden, City, KS
+Composite Index:	 89.1
+State Name:		Glens, Falls, NY
+Composite Index:	110.4
+State Name:		Glenwood, Springs, CO
+Composite Index:	124.2
+State Name:		Grand, Junction, CO
+Composite Index:	 99.1
+State Name:		Grand, Rapids, MI
+Composite Index:	 91.3
+State Name:		Green, Bay, WI
+Composite Index:	 95.8
+State Name:		Greenville, NC
+Composite Index:	 99.2
+State Name:		Greenville, SC
+Composite Index:	 90.4
+State Name:		Gunnison, CO
+Composite Index:	109.7
+State Name:		Hammond, LA
+Composite Index:	 95.7
+State Name:		Hampton, Roads-SE, Virginia, VA
+Composite Index:	111.7
+State Name:		Harlingen, TX
+Composite Index:	 84.2
+State Name:		Harrisburg, PA
+Composite Index:	 98.8
+State Name:		Harrisonburg, VA
+Composite Index:	 97.0
+State Name:		Hartford, CT
+Composite Index:	121.6
+State Name:		Hastings, NE
+Composite Index:	 92.5
+State Name:		Hattiesburg, MS
+Composite Index:	 91.9
+State Name:		Hays, KS
+Composite Index:	 89.2
+State Name:		Hickory, NC
+Composite Index:	 92.8
+State Name:		Hilton, Head, Island, SC
+Composite Index:	113.2
+State Name:		Honolulu, HI
+Composite Index:	165.5
+State Name:		Hot, Springs, AR
+Composite Index:	 92.1
+State Name:		Houston, TX
+Composite Index:	 91.8
+State Name:		Huntsville, AL
+Composite Index:	 90.7
+State Name:		Hutchinson, KS
+Composite Index:	 93.6
+State Name:		Idaho, Falls, ID
+Composite Index:	 90.6
+State Name:		Indiana, County, PA
+Composite Index:	 92.9
+State Name:		Indianapolis, IN
+Composite Index:	 87.5
+State Name:		Iowa, City, IA
+Composite Index:	 96.1
+State Name:		Ithaca, NY
+Composite Index:	103.6
+State Name:		Jackson, MS
+Composite Index:	 96.7
+State Name:		Jackson-Madison, County, TN
+Composite Index:	 89.8
+State Name:		Jacksonville, FL
+Composite Index:	 92.9
+State Name:		Jacksonville, NC
+Composite Index:	 96.6
+State Name:		Janesville, WI
+Composite Index:	 96.6
+State Name:		Jefferson, City, MO
+Composite Index:	 92.1
+State Name:		Johnson, City, TN
+Composite Index:	 86.7
+State Name:		Johnstown, PA
+Composite Index:	 92.4
+State Name:		Joliet-Will, County, IL
+Composite Index:	103.4
+State Name:		Jonesboro, AR
+Composite Index:	 87.9
+State Name:		Joplin, MO
+Composite Index:	 88.6
+State Name:		Juneau, AK
+Composite Index:	138.6
+State Name:		Kalamazoo, MI
+Composite Index:	 91.4
+State Name:		Kalispell, MT
+Composite Index:	 99.5
+State Name:		Kansas, City, MO-KS
+Composite Index:	 97.2
+State Name:		Kennewick-Richland-Pasco, WA
+Composite Index:	 94.0
+State Name:		Kinston, NC
+Composite Index:	 94.1
+State Name:		Knoxville, TN
+Composite Index:	 88.7
+State Name:		Kodiak, AK
+Composite Index:	130.3
+State Name:		Lafayette, IN
+Composite Index:	 99.3
+State Name:		Lafayette, LA
+Composite Index:	 98.7
+State Name:		Lake, Charles, LA
+Composite Index:	 96.6
+State Name:		Lake, Havasu, City, AZ
+Composite Index:	111.3
+State Name:		Lancaster, PA
+Composite Index:	106.2
+State Name:		Laramie, WY
+Composite Index:	 97.3
+State Name:		Las, Cruces, NM
+Composite Index:	100.4
+State Name:		Las, Vegas, NV
+Composite Index:	102.1
+State Name:		Lawrence, KS
+Composite Index:	 94.8
+State Name:		Lawton, OK
+Composite Index:	 94.1
+State Name:		Lexington, KY
+Composite Index:	 92.7
+State Name:		Lexington-Buena, Vista-Rockbridge, VA
+Composite Index:	 93.6
+State Name:		Lima, OH
+Composite Index:	 93.5
+State Name:		Little, Rock-North, Little, Rock, AR
+Composite Index:	 95.8
+State Name:		Logan, UT
+Composite Index:	 94.6
+State Name:		Los, Alamos, NM
+Composite Index:	109.6
+State Name:		Los, Angeles-Long, Beach, CA
+Composite Index:	136.4
+State Name:		Louisville, KY
+Composite Index:	 87.5
+State Name:		Loveland, CO
+Composite Index:	 91.3
+State Name:		Lubbock, TX
+Composite Index:	 89.3
+State Name:		Lufkin, TX
+Composite Index:	 93.0
+State Name:		Lynchburg, VA
+Composite Index:	 95.3
+State Name:		Manchester, NH
+Composite Index:	115.6
+State Name:		Manhattan, KS
+Composite Index:	 94.9
+State Name:		Mankato, MN
+Composite Index:	 93.8
+State Name:		Marietta, GA
+Composite Index:	 95.2
+State Name:		Marion-McDowell, County, NC
+Composite Index:	 92.4
+State Name:		Marshfield, WI
+Composite Index:	 95.2
+State Name:		Martinsburg-Berkeley, County, WV
+Composite Index:	 90.7
+State Name:		Martinsville-Henry, County, VA
+Composite Index:	 86.5
+State Name:		Mason, City, IA
+Composite Index:	 89.3
+State Name:		McAllen, TX
+Composite Index:	 86.3
+State Name:		Memphis, TN
+Composite Index:	 88.5
+State Name:		Miami-Dade, County, FL
+Composite Index:	106.1
+State Name:		Middlesex-Monmouth, NJ
+Composite Index:	124.2
+State Name:		Midland, TX
+Composite Index:	 93.4
+State Name:		Milwaukee-Waukesha, WI
+Composite Index:	102.9
+State Name:		Minneapolis, MN
+Composite Index:	110.4
+State Name:		Minot, ND
+Composite Index:	 98.0
+State Name:		Missoula, MT
+Composite Index:	100.0
+State Name:		Mobile, AL
+Composite Index:	 91.9
+State Name:		Monroe, LA
+Composite Index:	 92.5
+State Name:		Montgomery, AL
+Composite Index:	 98.4
+State Name:		Morgantown, WV
+Composite Index:	100.6
+State Name:		Morristown, TN
+Composite Index:	 90.0
+State Name:		Muncie, IN
+Composite Index:	 90.2
+State Name:		Murfreesboro-Smyrna, TN
+Composite Index:	 88.2
+State Name:		Muskogee, OK
+Composite Index:	 86.0
+State Name:		Myrtle, Beach, SC
+Composite Index:	 94.9
+State Name:		Nacogdoches, TX
+Composite Index:	 92.8
+State Name:		Nashville-Franklin, TN
+Composite Index:	 87.5
+State Name:		Nassau, County, NY
+Composite Index:	145.6
+State Name:		New, Haven, CT
+Composite Index:	121.4
+State Name:		New, York, (Brooklyn), NY
+Composite Index:	180.1
+State Name:		New, York, (Manhattan), NY
+Composite Index:	214.2
+State Name:		New, York, (Queens), NY
+Composite Index:	157.8
+State Name:		Newark-Elizabeth, NJ
+Composite Index:	128.5
+State Name:		Norman, OK
+Composite Index:	 94.6
+State Name:		Oakland, CA
+Composite Index:	138.9
+State Name:		Odessa, TX
+Composite Index:	 91.3
+State Name:		Oklahoma, City, OK
+Composite Index:	 92.0
+State Name:		Olympia, WA
+Composite Index:	105.5
+State Name:		Omaha, NE
+Composite Index:	 89.1
+State Name:		Orange, County, CA
+Composite Index:	146.7
+State Name:		Orlando, FL
+Composite Index:	 97.1
+State Name:		Paducah, KY
+Composite Index:	 87.1
+State Name:		Palm, Springs, CA
+Composite Index:	121.3
+State Name:		Panama, City, FL
+Composite Index:	 99.4
+State Name:		Paris, TX
+Composite Index:	 89.0
+State Name:		Pascagoula, MS
+Composite Index:	 92.1
+State Name:		Peoria, IL
+Composite Index:	 96.3
+State Name:		Philadelphia, PA
+Composite Index:	125.2
+State Name:		Phoenix, AZ
+Composite Index:	101.2
+State Name:		Pittsburgh, PA
+Composite Index:	 91.3
+State Name:		Pittsfield, MA
+Composite Index:	109.9
+State Name:		Plano, TX
+Composite Index:	 97.5
+State Name:		Plattsburgh, NY
+Composite Index:	101.6
+State Name:		Ponca, City, OK
+Composite Index:	 89.8
+State Name:		Portland, ME
+Composite Index:	116.9
+State Name:		Portland, OR
+Composite Index:	111.9
+State Name:		Prescott-Prescott, Valley, AZ
+Composite Index:	103.5
+State Name:		Providence, RI
+Composite Index:	121.7
+State Name:		Pryor, Creek, OK
+Composite Index:	 84.0
+State Name:		Pueblo, CO
+Composite Index:	 86.0
+State Name:		Quincy, IL
+Composite Index:	 95.8
+State Name:		Raleigh, NC
+Composite Index:	 98.0
+State Name:		Reno-Sparks, NV
+Composite Index:	101.3
+State Name:		Richmond, IN
+Composite Index:	 91.2
+State Name:		Richmond, VA
+Composite Index:	105.2
+State Name:		Rio, Rancho, NM
+Composite Index:	 94.9
+State Name:		Riverside, City, CA
+Composite Index:	113.1
+State Name:		Roanoke, VA
+Composite Index:	 94.2
+State Name:		Rochester, MN
+Composite Index:	 99.6
+State Name:		Rochester, NY
+Composite Index:	100.1
+State Name:		Rockford, IL
+Composite Index:	 93.1
+State Name:		Roswell, NM
+Composite Index:	 96.0
+State Name:		Round, Rock, TX
+Composite Index:	 89.5
+State Name:		Sacramento, CA
+Composite Index:	116.9
+State Name:		Salina, KS
+Composite Index:	 87.1
+State Name:		Salt, Lake, City, UT
+Composite Index:	100.4
+State Name:		San, Angelo, TX
+Composite Index:	 92.7
+State Name:		San, Antonio, TX
+Composite Index:	 95.6
+State Name:		San, Diego, CA
+Composite Index:	132.6
+State Name:		San, Francisco, CA
+Composite Index:	162.9
+State Name:		San, Jose, CA
+Composite Index:	157.0
+State Name:		San, Marcos, TX
+Composite Index:	 94.4
+State Name:		Sarasota, FL
+Composite Index:	102.0
+State Name:		Savannah, GA
+Composite Index:	 93.5
+State Name:		Seattle, WA
+Composite Index:	121.4
+State Name:		Seguin, TX
+Composite Index:	 90.9
+State Name:		Sheboygan, WI
+Composite Index:	101.8
+State Name:		Shreveport-Bossier, City, LA
+Composite Index:	 94.7
+State Name:		Sierra, Vista, AZ
+Composite Index:	 98.1
+State Name:		Sioux, Falls, SD
+Composite Index:	 94.0
+State Name:		Slidell-St., Tammany, Parish, LA
+Composite Index:	 96.5
+State Name:		South, Bend, IN
+Composite Index:	 91.9
+State Name:		Spokane, WA
+Composite Index:	 95.3
+State Name:		Springfield, IL
+Composite Index:	 87.3
+State Name:		Springfield, MO
+Composite Index:	 88.3
+State Name:		St., Cloud, MN
+Composite Index:	 98.0
+State Name:		St., George, UT
+Composite Index:	 95.1
+State Name:		St., Joseph, MO
+Composite Index:	 92.1
+State Name:		St., Louis, MO-IL
+Composite Index:	 90.9
+State Name:		St., Paul, MN
+Composite Index:	109.5
+State Name:		Stamford, CT
+Composite Index:	145.7
+State Name:		Staunton-Augusta, County, VA
+Composite Index:	 96.2
+State Name:		Stillwater, OK
+Composite Index:	 90.2
+State Name:		Sumter, SC
+Composite Index:	 96.0
+State Name:		Syracuse, NY
+Composite Index:	101.0
+State Name:		Tacoma, WA
+Composite Index:	109.9
+State Name:		Tampa, FL
+Composite Index:	 93.1
+State Name:		Temple, TX
+Composite Index:	 87.4
+State Name:		Thomasville-Lexington, NC
+Composite Index:	 90.4
+State Name:		Topeka, KS
+Composite Index:	 91.4
+State Name:		Troy-Miami, County, OH
+Composite Index:	 94.9
+State Name:		Truckee-Nevada, County, CA
+Composite Index:	146.0
+State Name:		Tucson, AZ
+Composite Index:	 96.5
+State Name:		Tulsa, OK
+Composite Index:	 88.1
+State Name:		Tupelo, MS
+Composite Index:	 87.7
+State Name:		Tuscaloosa, AL
+Composite Index:	 94.1
+State Name:		Twin, Falls, ID
+Composite Index:	 91.5
+State Name:		Tyler, TX
+Composite Index:	 95.8
+State Name:		Valdosta, GA
+Composite Index:	 94.7
+State Name:		Vancouver, WA
+Composite Index:	 96.1
+State Name:		Vero, Beach-Indian, River, FL
+Composite Index:	 96.9
+State Name:		Waco, TX
+Composite Index:	 89.2
+State Name:		Washington-Arlington-Alexandria, DC-VA
+Composite Index:	139.8
+State Name:		Waterloo-Cedar, Falls, IA
+Composite Index:	 92.1
+State Name:		Wausau, WI
+Composite Index:	 96.6
+State Name:		Weatherford, TX
+Composite Index:	 91.4
+State Name:		Wichita, Falls, TX
+Composite Index:	 87.0
+State Name:		Wichita, KS
+Composite Index:	 92.0
+State Name:		Williamsport-Lycoming, Co, PA
+Composite Index:	100.0
+State Name:		Wilmington, DE
+Composite Index:	105.3
+State Name:		Wilmington, NC
+Composite Index:	 98.7
+State Name:		Winchester, VA-WV
+Composite Index:	101.7
+State Name:		Winston-Salem, NC
+Composite Index:	 92.0
+State Name:		Wooster, OH
+Composite Index:	 92.7
+State Name:		Yakima, WA
+Composite Index:	 97.4
+State Name:		York, County, PA
+Composite Index:	101.6
+State Name:		Youngstown-Warren, OH
+Composite Index:	 89.8
+State Name:		Yuma, AZ
+Composite Index:	102.1
+State Name:		
+Composite Index:	 88.1
+The Min:		 84.0	Pryor, Creek, OK
+The Max:		214.2	New, York, (Manhattan), NY
+
+
+Student Name:	Alex Kim
+E-mail:		alexkim80@gmail.com
+Assignment:	Lab 6 - Comparative Cost of Living in US Cities

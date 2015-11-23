@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EBB4C0771965B1EA9A187A5498435D1ADDFFB2AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "87CF96E83AE0B58CD5F5BC90545760682EBC9DD4" : 0,
+    "EBB4C0771965B1EA9A187A5498435D1ADDFFB2AC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B93A798A-3EE8-47A3-BF49-066FC8A1DDE0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "87CF96E83AE0B58CD5F5BC90545760682EBC9DD4" : "",
+    "EBB4C0771965B1EA9A187A5498435D1ADDFFB2AC" : "C-\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "lab5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "lab5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tokkiboi\/programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "87CF96E83AE0B58CD5F5BC90545760682EBC9DD4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tokkiboi\/C-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EBB4C0771965B1EA9A187A5498435D1ADDFFB2AC"
+    }
+  ]
+}
