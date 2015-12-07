@@ -1,8 +1,8 @@
-Henry Doolittle\n
-4421 84\n
-Ron Brilliant\n
-1291 80\n
-Tom Cruise\n
-4361 70\n
-Julia Roberts\n
+Henry Doolittle
+4421 84
+Ron Brilliant
+1291 80
+Tom Cruise
+4361 70
+Julia Roberts
 6754 90
