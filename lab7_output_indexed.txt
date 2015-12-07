@@ -1,0 +1,10 @@
+
+[1;31mUniversities found in the state:[0m	PA
+[1;32mUniversity	[1;33mUniversity of Pennsylvania
+[1;32mState		[1;33mPA	[1;32mCity	[1;33mPhiladelphia
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47668.00               21358            98.00 %                   96.00 %
+[1;32mUniversity	[1;33mCarnegie Mellon University
+[1;32mState		[1;33mPA	[1;32mCity	[1;33mPittsburgh
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+48786.00               12991            95.00 %                   88.00 %

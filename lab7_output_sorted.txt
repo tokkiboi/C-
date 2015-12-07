@@ -1,0 +1,110 @@
+[1;32mUniversity	[1;33m
+[1;32mState		[1;33m	[1;32mCity	[1;33m
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+    0.00                   0             0.00 %                   0.00 %
+[1;32mUniversity	[1;33mCalifornia Institute of Technology
+[1;32mState		[1;33mCA	[1;32mCity	[1;33mPasadena
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+43362.00                2181            97.00 %                   93.00 %
+[1;32mUniversity	[1;33mDartmouth College
+[1;32mState		[1;33mNH	[1;32mCity	[1;33mHanover
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+48108.00                6342            98.00 %                   95.00 %
+[1;32mUniversity	[1;33mRice University
+[1;32mState		[1;33mTX	[1;32mCity	[1;33mHouston
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+40566.00                6628            97.00 %                   91.00 %
+[1;32mUniversity	[1;33mPrinceton University
+[1;32mState		[1;33mNJ	[1;32mCity	[1;33mPrinceton
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+41820.00                8014            98.00 %                   97.00 %
+[1;32mUniversity	[1;33mBrown University
+[1;32mState		[1;33mRI	[1;32mCity	[1;33mProvidence			
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47434.00                8943            98.00 %                   94.00 %
+[1;32mUniversity	[1;33mMassachusetts Institute of Technology
+[1;32mState		[1;33mMA	[1;32mCity	[1;33mCambridge
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+45016.00               11301            98.00 %                   93.00 %
+[1;32mUniversity	[1;33mYale University
+[1;32mState		[1;33mCT	[1;32mCity	[1;33mNew Haven
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+45800.00               12109            99.00 %                   98.00 %
+[1;32mUniversity	[1;33mUniversity of Notre Dame
+[1;32mState		[1;33mIN	[1;32mCity	[1;33mNotre Dame			
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+46237.00               12124            98.00 %                   95.00 %
+[1;32mUniversity	[1;33mUniversity of Chicago
+[1;32mState		[1;33mIL	[1;32mCity	[1;33mChicago
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+48253.00               12539            99.00 %                   93.00 %
+[1;32mUniversity	[1;33mVanderbilt University
+[1;32mState		[1;33mTN	[1;32mCity	[1;33mNashville
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+43838.00               12757            97.00 %                   93.00 %
+[1;32mUniversity	[1;33mCarnegie Mellon University
+[1;32mState		[1;33mPA	[1;32mCity	[1;33mPittsburgh
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+48786.00               12991            95.00 %                   88.00 %
+[1;32mUniversity	[1;33mWashington University in St. Louis
+[1;32mState		[1;33mMO	[1;32mCity	[1;33mSt. Louis
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+46467.00               14032            97.00 %                   94.00 %
+[1;32mUniversity	[1;33mEmory University
+[1;32mState		[1;33mGA	[1;32mCity	[1;33mAtlanta
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+45008.00               14513            95.00 %                   91.00 %
+[1;32mUniversity	[1;33mDuke University
+[1;32mState		[1;33mNC	[1;32mCity	[1;33mDurham
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47488.00               15465            97.00 %                   94.00 %
+[1;32mUniversity	[1;33mGeorgetown University
+[1;32mState		[1;33mDC	[1;32mCity	[1;33mWashington
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+46744.00               17849            96.00 %                   92.00 %
+[1;32mUniversity	[1;33mStanford University
+[1;32mState		[1;33mCA	[1;32mCity	[1;33mStanford
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+44757.00               18136            98.00 %                   96.00 %
+[1;32mUniversity	[1;33mHarvard University
+[1;32mState		[1;33mMA	[1;32mCity	[1;33mCambridge
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+43838.00               19882            97.00 %                   97.00 %
+[1;32mUniversity	[1;33mNorthwestern University
+[1;32mState		[1;33mIL	[1;32mCity	[1;33mEvanston
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47251.00               20997            97.00 %                   94.00 %
+[1;32mUniversity	[1;33mJohns Hopkins University
+[1;32mState		[1;33mMD	[1;32mCity	[1;33mBaltimore
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47060.00               21052            97.00 %                   93.00 %
+[1;32mUniversity	[1;33mUniversity of Pennsylvania
+[1;32mState		[1;33mPA	[1;32mCity	[1;33mPhiladelphia
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47668.00               21358            98.00 %                   96.00 %
+[1;32mUniversity	[1;33mCornell University
+[1;32mState		[1;33mNY	[1;32mCity	[1;33mIthaca
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+47286.00               21593            97.00 %                   93.00 %
+[1;32mUniversity	[1;33mUniversity of Virginia
+[1;32mState		[1;33mVA	[1;32mCity	[1;33mCharlottesville
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+42184.00               23464            97.00 %                   93.00 %
+[1;32mUniversity	[1;33mColumbia University
+[1;32mState		[1;33mNY	[1;32mCity	[1;33mNew York			
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+51008.00               23606            99.00 %                   96.00 %
+[1;32mUniversity	[1;33mUniversity of California-Berkeley
+[1;32mState		[1;33mCA	[1;32mCity	[1;33mBerkeley
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+25064.00               36204            97.00 %                   91.00 %
+[1;32mUniversity	[1;33mUniversity of Southern California
+[1;32mState		[1;33mCA	[1;32mCity	[1;33mLos Angeles
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+48280.00               41368            97.00 %                   91.00 %
+[1;32mUniversity	[1;33mUniversity of California-Los Angeles
+[1;32mState		[1;33mCA	[1;32mCity	[1;33mLos Angeles
+[1;32mTuition		  Enrollment	 %Fresh Succeed	   %Graduate in six years[1;33m
+25064.00               42190            97.00 %                   90.00 %
+[1;33m*** END OF SORTED ARRAY LIST ***
+[0m
